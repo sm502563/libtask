@@ -1,6 +1,6 @@
 {
-  "name": "图书馆勤助任务榜",
-  "short_name": "任务榜",
+  "name": "勤中枢",
+  "short_name": "勤中枢",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
